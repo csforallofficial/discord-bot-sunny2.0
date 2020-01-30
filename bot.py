@@ -4,7 +4,7 @@ import asyncio
 import youtube_dl
 
 
-#id= 620647584226213889
+#id= 62064********13889
 messages = joined = 0
 
 
